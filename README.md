@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aditya 👋</h1>
+<h1>Hi, I'm Aditya</h1>
 
 **Full Stack Developer · Healthtech Founder · Based in India**
 
