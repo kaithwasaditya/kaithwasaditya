@@ -2,11 +2,6 @@
 
 **Full Stack Developer · Healthtech Founder · Based in India**
 
-Building **[Kraevo](https://linkedin.com/company/kraevohq)** — OPD workflow digitization for Indian hospitals.  
-Into TypeScript, React, NestJS, PostgreSQL, and Arch Linux.
-
----
-
 ### Tech
 
 <p>
@@ -23,7 +18,6 @@ Into TypeScript, React, NestJS, PostgreSQL, and Arch Linux.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS" title="CSS" />
 </p>
-
----
+<br>
 
 [Portfolio](https://adityakaithwas.is-a.dev) · [LinkedIn](https://linkedin.com/Adityakait) · [GitHub](https://github.com/Adityakai) · [Email](mailto:adityakaithwas@proton.me)
