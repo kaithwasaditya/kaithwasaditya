@@ -11,4 +11,4 @@ Into TypeScript, React, NestJS, PostgreSQL, and Arch Linux.
 
 ---
 
-[Portfolio](https://adityakaithwas.is-a.dev) · [LinkedIn](https://linkedin.com/in/aditya-kaithwas) · [GitHub](https://github.com/Goofy-elf1) · [Email](mailto:adityakaithwas@proton.me)
+[Portfolio](https://adityakaithwas.is-a.dev) · [LinkedIn](https://linkedin.com/in/adityakait) · [GitHub](https://github.com/adityakai) · [Email](mailto:adityakaithwas@proton.me)
