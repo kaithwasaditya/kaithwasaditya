@@ -8,7 +8,9 @@
   </a>
 </p>
 
-
+<p align="center">
+  <img src="https://tenor.com/us2uq8XsFVq.gif" width="700" alt="Demo" />
+</p>
 ## ◈ About
 
 Full Stack Engineer building at the intersection of product and AI. Currently exploring the frontier of RAG pipelines, LLM integration, and embedding systems.
