@@ -1,24 +1,19 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,23&height=200&section=header&text=Aditya%20Kaithwas&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Builder&descAlignY=58&descAlign=50" />
 </p>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+%E2%80%94+PERN+%2B+TypeScript;AI+%2F+ML+Builder+%7C+RAG+%7C+Embeddings;" alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
-  <img src="./shorekeeper.gif" width="700" alt="Demo" />
+  <img src="./shorekeeper.gif" width="500" alt="Demo" />
 </p>
 
 ## ◈ About
-
 Full Stack Engineer building at the intersection of product and AI. Currently exploring the frontier of RAG pipelines, LLM integration, and embedding systems.
 
 <i>**Open To:** Remote AI / Full Stack Engineering Internships · Open Source Collaboration</i>
-
-
 
 ## ◈ Tech Stack
 
@@ -27,13 +22,7 @@ Full Stack Engineer building at the intersection of product and AI. Currently ex
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,prisma,git,github,docker,linux,sentry&theme=dark" />
   </a>
 </p>
-
 <hr>
-
-<p align="center">
-  <sub><em>"The best engineers don't just write code — they engineer outcomes."</em></sub>
-</p>
-
 <p align="center">
   <a href="mailto:adityakaithwas@proton.me" target="_blank">
     <img src="https://img.shields.io/badge/Email-6D28D9?style=flat-square&logo=protonmail&logoColor=white" />
