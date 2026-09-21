@@ -22,7 +22,7 @@
 
 <img src="https://img.shields.io/badge/-%20-30363D?style=flat" width="60%" height="1" alt="" />
 
-<br/>
+
 
 <h3>What I Build</h3>
 
@@ -32,7 +32,8 @@ with <strong>performance-minded C++</strong> when the problem calls for it.<br/>
 Typed end to end with TypeScript, backed by PostgreSQL, shipped in Docker.
 </p>
 
-<br/>
+<img src="https://img.shields.io/badge/-%20-30363D?style=flat" width="60%" height="1" alt="" />
+
 
 <h3>Tech Stack</h3>
 
