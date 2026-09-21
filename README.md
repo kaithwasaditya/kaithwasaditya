@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=Aditya%20Kaithwas&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descSize=16&descColor=8B949E" alt="Aditya Kaithwas" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=Aditya%20Kaithwas&fontSize=42&fontColor=FFFFFF&fontAlignY=40" alt="Aditya Kaithwas" width="100%" />
 
 <a href="https://github.com/kaithwasaditya">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=620&height=30&lines=Building,+breaking,+and+shipping.;Fast+backend+services+in+Go;Full-stack+apps+with+Next.js+%26+TypeScript;Performance-minded+systems+in+C%2B%2B" alt="Typing intro" />
