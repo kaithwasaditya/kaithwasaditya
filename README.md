@@ -22,19 +22,6 @@
 
 <img src="https://img.shields.io/badge/-%20-30363D?style=flat" width="60%" height="1" alt="" />
 
-
-
-<h3>What I Build</h3>
-
-<p>
-I build <strong>full-stack web apps</strong> and <strong>fast backend services in Go</strong>,<br/>
-with <strong>performance-minded C++</strong> when the problem calls for it.<br/>
-Typed end to end with TypeScript, backed by PostgreSQL, shipped in Docker.
-</p>
-
-<img src="https://img.shields.io/badge/-%20-30363D?style=flat" width="60%" height="1" alt="" />
-
-
 <h3>Tech Stack</h3>
 
 <p>
