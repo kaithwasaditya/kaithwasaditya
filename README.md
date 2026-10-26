@@ -36,7 +36,4 @@
 <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 <img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
 </p>
-<br/>
-
-<img src="https://count.getloli.com/@:kaithwasaditya" alt="Profile views" />
 </div>
